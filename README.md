@@ -1,2 +1,4 @@
 # hello-world
-This is the hello-world tutorial/lab that must be completed for CSC 154
+Hi! I'm Nicholas.
+
+I'm 38 years old. I love dogs. Also tacos.
